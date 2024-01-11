@@ -26,7 +26,7 @@
 <a href="https://www.linkedin.com/in/vishal-gupta-b0a589210/" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" alt="vishal230120" height="30" width="40" /></a>
 <!-- <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16327184/gajendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16327184/gajendra" height="30" width="40" /></a> -->
 <a href="https://www.leetcode.com/vishal230120" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=wDGo581Ea5Nf&format=png" alt="vishal230120" height="30" width="40" /></a>
-<a href="https://instagram.com/ankitbagh.el" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" alt="vishal230120" height="30" width="40" /></a>
+<a href="https://instagram.com/v.i.s.h.a.l__g.u.p.t.a" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" alt="vishal230120" height="30" width="40" /></a>
 <!-- <a href="https://www.codechef.com/users/vishal230120" target="blank"><img align="center" src="https://icons8.com/icon/vAtJFm3hwtQw/codechef" alt="vishal230120" height="30" width="40" /></a> -->
 <!-- <a href="https://codeforces.com/profile/vishal230120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vishal230120" height="30" width="40" /></a> -->
 
