@@ -18,7 +18,7 @@
   
  <br>
 
- # - 📄 Resume: [My Resume](https://drive.google.com/drive/my-drive)
+ # - 📄 Resume: [My Resume](https://drive.google.com/file/d/1JueCr5pymW6Jj_7X69tIC8-lo3i7fVPd/view?usp=sharing)
 
  # <h2> Connect with me <img src='https://img.icons8.com/?size=512&id=GiHNxwe2ZmsA&format=png' width="30px">
 <p align="left">
